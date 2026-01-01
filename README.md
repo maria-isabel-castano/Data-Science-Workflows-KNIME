@@ -16,8 +16,24 @@ This repository contains professional workflows developed in **KNIME Analytics P
 
 **Technical Insight:** Even though the project used a synthetic dataset for architectural testing, the workflow is fully scalable and ready to be deployed with real-world institutional data.
 
+**Technical Tools Used:**
+**KNIME Nodes:** Row Filter, Partitioning, Logistic Regression Learner, Scorer.
+**Concepts:** Data Normalization, Binary Classification, Performance Metrics.
+
 ![Capture of Workflow](assets/Mental_health_KNIME.png)
 
-### 2. [Otro flujo, ej: Customer Segmentation Basics]
-**Objective:** Perform exploratory data analysis and basic clustering.
-- **Key Nodes:** `Statistics`, `GroupBy`, `Color Manager`.
+### 2. [🏠 Real Estate Price Prediction: Ames Housing Analysis]
+**Models Compared:** Decision Tree, Random Forest, and XGBoost.
+**Winner:** XGBoost (82.4% Accuracy)
+
+**Objective:** Perform a comparative analysis to find the best model for predicting house prices.
+
+**Model Benchmarking & Insights:**
+* **Decision Tree:** Achieved **81.8%**, providing a clear, interpretable baseline.
+* **Random Forest:** Achieved **75.9%**. *Insight:* The lower performance here suggested that the forest required more hyperparameter tuning or that the data had specific patterns better captured by boosting.
+* **XGBoost:** The top performer with **82.4%**. By using Gradient Boosting, I was able to minimize the residuals that the simpler models missed.
+
+**Key Technical Skill:** This experiment demonstrates my ability to conduct **Hyperparameter Testing** and **Algorithm Selection**, ensuring the most efficient model is deployed for the specific business problem.
+
+## 🎯 Conclusion
+My experience with KNIME allows me to tackle diverse data challenges, from **Classification** (Logistic Regression for Mental Health) to **Advanced Regression** (XGBoost for Real Estate). I focus on the entire data lifecycle: from messy raw data to validated, high-accuracy predictive models.
