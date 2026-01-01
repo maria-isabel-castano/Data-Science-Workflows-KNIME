@@ -16,7 +16,7 @@ This repository contains professional workflows developed in **KNIME Analytics P
 
 **Technical Insight:** Even though the project used a synthetic dataset for architectural testing, the workflow is fully scalable and ready to be deployed with real-world institutional data.
 
-![Capture of Workflow](assets/tu-captura-knime.png)
+![Capture of Workflow](assets/Mental_health_KNIME.png)
 
 ### 2. [Otro flujo, ej: Customer Segmentation Basics]
 **Objective:** Perform exploratory data analysis and basic clustering.
