@@ -35,5 +35,7 @@ This repository contains professional workflows developed in **KNIME Analytics P
 
 **Key Technical Skill:** This experiment demonstrates my ability to conduct **Hyperparameter Testing** and **Algorithm Selection**, ensuring the most efficient model is deployed for the specific business problem.
 
+![Capture of Workflow](assets/knime-xgboost-comparison.png)
+
 ## 🎯 Conclusion
 My experience with KNIME allows me to tackle diverse data challenges, from **Classification** (Logistic Regression for Mental Health) to **Advanced Regression** (XGBoost for Real Estate). I focus on the entire data lifecycle: from messy raw data to validated, high-accuracy predictive models.
