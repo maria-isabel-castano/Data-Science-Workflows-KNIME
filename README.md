@@ -1,5 +1,3 @@
-# Data-Science-Workflows-KNIME
-
 # 📊 Data Science & ETL Workflows (KNIME)
 
 This repository contains professional workflows developed in **KNIME Analytics Platform**. These projects demonstrate my ability to process, transform, and analyze data using a visual programming approach.
